@@ -1,0 +1,6 @@
+Flask
+pytube
+moviepy
+librosa
+opencv-python
+numpy
